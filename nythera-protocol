@@ -1,0 +1,36 @@
+nythera-protocol/
+│
+├── Cargo.toml
+├── README.md
+├── LICENSE
+├── Makefile
+├── Dockerfile
+├── roadmap.md
+│
+├── node/
+│   ├── main.rs
+│   ├── config.rs
+│
+├── consensus/
+│   └── mod.rs
+│
+├── runtime/
+│   └── mod.rs
+│
+├── staking/
+│   └── mod.rs
+│
+├── governance/
+│   └── mod.rs
+│
+├── config/
+│   └── genesis.json
+│
+├── assets/
+│   └── logo.png
+│
+└── docs/
+    ├── architecture.md
+    ├── tokenomics.md
+    ├── validator.md
+    └── whitepaper.pdf
