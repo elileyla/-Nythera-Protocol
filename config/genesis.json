@@ -1,0 +1,9 @@
+{
+  "chain_name": "nythera-testnet-1",
+  "chain_id": "nythera_2026_001",
+  "genesis_time": "2026-01-01T00:00:00Z",
+  "initial_supply": "21500000",
+  "max_supply": "215000000",
+  "block_time": "1.8",
+  "block_reward": "3.25"
+}
